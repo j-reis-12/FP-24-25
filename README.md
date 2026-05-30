@@ -1,4 +1,4 @@
-# Foundations of Programming course @ IST
+# Foundations of Programming
 
 Provide knowledge about fundamental concepts related to programming activity, namely, algorithm,
 procedural abstraction and data abstraction, programming as construction of abstractions, programming
